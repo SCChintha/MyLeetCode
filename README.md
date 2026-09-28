@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/chinthasaicharan?theme=light&font=Londrina%20Shadow&ext=activity)
+![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/chinthasaicharan?theme=blue-green&show=graph,recent)
 
 # MyLeetCode
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
