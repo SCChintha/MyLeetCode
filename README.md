@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/SCChintha/MyLeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SCChintha/MyLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/SCChintha/MyLeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/SCChintha/MyLeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/SCChintha/MyLeetCode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/SCChintha/MyLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/SCChintha/MyLeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
@@ -62,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SCChintha/MyLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/SCChintha/MyLeetCode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
