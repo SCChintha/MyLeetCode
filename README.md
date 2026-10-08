@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/SCChintha/MyLeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/SCChintha/MyLeetCode/tree/main/0461-hamming-distance/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SCChintha/MyLeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SCChintha/MyLeetCode/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/SCChintha/MyLeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
