@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/SCChintha/MyLeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/SCChintha/MyLeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0461-hamming-distance](https://github.com/SCChintha/MyLeetCode/tree/main/0461-hamming-distance/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SCChintha/MyLeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SCChintha/MyLeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SCChintha/MyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/SCChintha/MyLeetCode/tree/main/0338-counting-bits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
