@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/SCChintha/MyLeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SCChintha/MyLeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/SCChintha/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SCChintha/MyLeetCode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/SCChintha/MyLeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/SCChintha/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
