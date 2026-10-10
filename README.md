@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SCChintha/MyLeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SCChintha/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/SCChintha/MyLeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SCChintha/MyLeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SCChintha/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/SCChintha/MyLeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SCChintha/MyLeetCode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/SCChintha/MyLeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/SCChintha/MyLeetCode/tree/main/0078-subsets/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SCChintha/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
