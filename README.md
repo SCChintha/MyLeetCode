@@ -4,6 +4,8 @@
 
 [![SmartInterviews](https://img.shields.io/badge/Smart_Interviews-Profile-1E88E5?style=flat)](https://hive.smartinterviews.in/profile/saicharan2889)
 
+[![CodeChef Stats](https://codechef-readme-stats.onrender.com/kl_2400030039?v=1)](https://www.codechef.com/users/kl_2400030039)
+
 ======================================================================================
 # MyLeetCode
 A collection of LeetCode questions to ace the coding interview!
