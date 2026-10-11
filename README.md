@@ -4,8 +4,6 @@
 
 [![SmartInterviews](https://img.shields.io/badge/Smart_Interviews-Profile-1E88E5?style=flat)](https://hive.smartinterviews.in/profile/saicharan2889)
 
-![Codeforces Graph](https://codeforces-readme-stats.vercel.app/api/card?kl2400030039&theme=dark)
-
 
 
 ======================================================================================
