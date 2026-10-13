@@ -1,0 +1,48 @@
+Find Excel Column Number Given the column title as it appears in a standard excel sheet, find its corresponding column number.
+
+Input Format
+First line of input contains T - number of test cases. Its followed by T lines, each contains a single string.
+
+Output Format
+For each test case, print the column number, separated by newline.
+
+Constraints
+1 <= T <= 105
+1 <= len(str) <= 10
+
+Example
+Input
+5
+A
+Z
+AA
+AB
+ABC
+
+Output
+1
+26
+27
+28
+731
+
+*Code*
+
+import java.io.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int tc=sc.nextInt();
+        while(tc-->0){
+            String s = sc.next();
+            long res=0;
+            // char[] ch = s.toCharArray();
+            for(char c : s.toCharArray()){
+                res = (res*26 + (c-'A'+1));
+            }
+            System.out.println(res);
+        }
+    }
+}
