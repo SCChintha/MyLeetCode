@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/SCChintha/MyLeetCode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/SCChintha/MyLeetCode/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SCChintha/MyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SCChintha/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/SCChintha/MyLeetCode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SCChintha/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/SCChintha/MyLeetCode/tree/master/0035-search-insert-position) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SCChintha/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SCChintha/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0191-number-of-1-bits](https://github.com/SCChintha/MyLeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/SCChintha/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SCChintha/MyLeetCode/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SCChintha/MyLeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SCChintha/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
