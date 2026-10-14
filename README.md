@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SCChintha/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SCChintha/MyLeetCode/tree/master/1512-number-of-good-pairs) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SCChintha/MyLeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SCChintha/MyLeetCode/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SCChintha/MyLeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 <!---LeetCode Topics End-->
