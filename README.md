@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SCChintha/MyLeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/SCChintha/MyLeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/SCChintha/MyLeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SCChintha/MyLeetCode/tree/master/0013-roman-to-integer) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SCChintha/MyLeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0326-power-of-three](https://github.com/SCChintha/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SCChintha/MyLeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SCChintha/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SCChintha/MyLeetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
