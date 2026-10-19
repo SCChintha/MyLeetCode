@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SCChintha/MyLeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SCChintha/MyLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 | Problem Name | Difficulty |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SCChintha/MyLeetCode/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/SCChintha/MyLeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SCChintha/MyLeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SCChintha/MyLeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
