@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SCChintha/MyLeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/SCChintha/MyLeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0326-power-of-three](https://github.com/SCChintha/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SCChintha/MyLeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/SCChintha/MyLeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
