@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/SCChintha/MyLeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SCChintha/MyLeetCode/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/SCChintha/MyLeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/SCChintha/MyLeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/SCChintha/MyLeetCode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/SCChintha/MyLeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SCChintha/MyLeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/SCChintha/MyLeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SCChintha/MyLeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 | Problem Name | Difficulty |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/SCChintha/MyLeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SCChintha/MyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/SCChintha/MyLeetCode/tree/main/0338-counting-bits/) | Easy |
+| [0392-is-subsequence](https://github.com/SCChintha/MyLeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
