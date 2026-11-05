@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/SCChintha/MyLeetCode/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SCChintha/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/SCChintha/MyLeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/SCChintha/MyLeetCode/tree/master/1512-number-of-good-pairs) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SCChintha/MyLeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Bit Manipulation
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/SCChintha/MyLeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/SCChintha/MyLeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/SCChintha/MyLeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/SCChintha/MyLeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/SCChintha/MyLeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/SCChintha/MyLeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/SCChintha/MyLeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/SCChintha/MyLeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
