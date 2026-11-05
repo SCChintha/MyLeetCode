@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SCChintha/MyLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SCChintha/MyLeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SCChintha/MyLeetCode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/SCChintha/MyLeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0344-reverse-string](https://github.com/SCChintha/MyLeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/SCChintha/MyLeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Math
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/SCChintha/MyLeetCode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/SCChintha/MyLeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/SCChintha/MyLeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SCChintha/MyLeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/SCChintha/MyLeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/SCChintha/MyLeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0326-power-of-three](https://github.com/SCChintha/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SCChintha/MyLeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/SCChintha/MyLeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/SCChintha/MyLeetCode/tree/main/0143-reorder-list/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
