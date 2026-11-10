@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SCChintha/MyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SCChintha/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SCChintha/MyLeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/SCChintha/MyLeetCode/tree/master/1512-number-of-good-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SCChintha/MyLeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SCChintha/MyLeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/SCChintha/MyLeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SCChintha/MyLeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/SCChintha/MyLeetCode/tree/master/1512-number-of-good-pairs) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SCChintha/MyLeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Bit Manipulation
