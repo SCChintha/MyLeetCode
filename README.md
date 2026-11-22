@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/SCChintha/MyLeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/SCChintha/MyLeetCode/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SCChintha/MyLeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/SCChintha/MyLeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/SCChintha/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SCChintha/MyLeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/SCChintha/MyLeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SCChintha/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/SCChintha/MyLeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/SCChintha/MyLeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SCChintha/MyLeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/SCChintha/MyLeetCode/tree/master/1512-number-of-good-pairs) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/SCChintha/MyLeetCode/tree/main/0015-3sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/SCChintha/MyLeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/SCChintha/MyLeetCode/tree/master/0268-missing-number) |
 ## String
 | Problem Name | Difficulty |
